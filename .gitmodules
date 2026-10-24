@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/MuzamilKhan197/hcm-api
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/MuzamilKhan197/hcm-client
